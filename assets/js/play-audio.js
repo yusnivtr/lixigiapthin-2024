@@ -1,5 +1,5 @@
 const lunarAudio = new Audio(
-  "../assets/music/Xuân Đã Về Remix __ Nhạc Xuân.mp3"
+  "../assets/music/Xuân Đã Về Remix __ Nhạc Xuâ.mp3"
 );
 function play() {
   lunarAudio.play().catch(() => {

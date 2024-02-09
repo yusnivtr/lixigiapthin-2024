@@ -6,7 +6,7 @@ const rejectMessages = [
   <p class="pt-2">Bạn thật là một bậc thầy trong việc từ chối lì xì một cách đầy quyết đoán và không do dự!</p>
   <p class="pt-2">Chắc chắn bạn phải là người thật giàu có! =))</p>`,
   //
-  `<p class="pt-2">Đỉnh quá bạn ơi =))</p>
+  `<p class="pt-2">Đỉnh thực sự bạn ơi =))</p>
   <p class="pt-2">Đúng là một "chuyên gia từ chối lì xì".</p>
   <p class="pt-2">Bạn thật xinh đẹp, thà nghèo khổ, chứ không nhận lì xì!</p>`,
   //
@@ -16,7 +16,7 @@ const rejectMessages = [
     </div>
     <div class="flex flex-col">
       <p class="pt-2">Nếu bạn đã nhất quyết từ chối như vậy!</p>
-      <p class="pt-2">Vậy lì xì lại cho chúng tôi nhé =))</p>
+      <p class="pt-2">Vậy lì xì lại cho tôi nhé =))</p>
     </div>
   </div>`,
 ];
